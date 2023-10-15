@@ -48,14 +48,7 @@ h1{
     padding-top: 0;
     margin-bottom: 0;
 }
-pre{
-    color: rgb(151, 12, 216);
-    font-weight: bolder;
-    font-size: 9px;
-    margin-right: 20%;
-    padding-bottom: 0; 
-    margin-bottom:0;  
-}
+
 .firstLine{
     font-size: large;
     padding:0;
@@ -63,4 +56,6 @@ pre{
 }
 .message{
     font-size: 15px;
+    padding-right:50px;
+    padding-left:50px;
 }
