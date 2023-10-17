@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&family=Pixelify+Sans&family=Poppins:ital,wght@1,700&display=swap');
 body{
     background-repeat: no-repeat;
-    background-size: 125% 130%;
+    background-size: 110% 110%;
     background-attachment: fixed;
     text-align: center;
     line-height: 1;
@@ -19,7 +19,7 @@ span{
 .names{
     font-size: 35px;
     font-weight: bolder;
-    background: -webkit-linear-gradient(rgba(131,58,180,1) 53%, rgb(163, 21, 156) 20%, rgb(197, 108, 178) 77%);
+    background: -webkit-linear-gradient(rgb(3, 85, 34) 53%, rgb(6, 83, 36) 20%, rgb(52, 175, 99) 77%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: 'Lobster', sans-serif;
@@ -27,15 +27,15 @@ span{
 }
 .amp{
     font-size: 1.5rem;
-    color: rgb(151, 12, 216);
-
+    color: rgb(12, 138, 79);
 }
 p{
-    color: rgb(138, 39, 184);
-    letter-spacing: 0.5px;
+   color: rgb(4, 131, 53);
+   letter-spacing: 0.5px;
 }
 h1{
-    color: #aa10f1;
+    color: rgb(2, 59, 24);
+
     font-weight:bold;
     padding-bottom: 20px;
     font-size: 35px;
@@ -58,4 +58,8 @@ h1{
     font-size: 15px;
     padding-right:50px;
     padding-left:50px;
+}
+#address{
+    padding-top:25px;
+    margin:0;
 }
