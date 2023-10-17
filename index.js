@@ -8,13 +8,13 @@ const mamaNames = ["bharath","barath","ragu","raguraman","sarath","dilli","dilli
 const annaNames = ["sharath", "vinoth","shoban","nandha","nanda"];
 const akkaNames = ["swapna","usha","durga","suganya","revathi","revathy","priya","priyanka","kavitha","kalpana"];
 const ofzAnna = ["thirupathi","sangappa","abhishek"];
-const ofzJi = ["shivukumar","pavan","gopiram","manjunatha r","manjunatha","amruth","prbhakar","prabhakar","balaji"];
+const ofzJi = ["shivukumar","akhilesh","akilesh","pavan","gopiram","manjunatha r","manjunatha","amruth","prbhakar","prabhakar","balaji"];
 const mummy = ["jyothi"]; 
 const aunty = ["Roopa"];
 const sir = ["anilkulkarni","kashi","balachandra","anil","bala","kashilingeshagowda"];
 const nikhil = ["nikhil"];
 const anni = ["sneka","snekha","sneha"];
-
+const sissy = ["praveena","pravena","pravina","nisha","preethi","preethy","shalini","shallni","shalni"]
 
 if (machaNames.includes(names)){
     document.querySelector(".message").textContent="Dei Macha " +names+ " soli mudiyapodhu shock aagadha, enake oru ponnu okay paniduchu macha engagement panikapora, ungalukum seekram kedaikum vaitherichal padama vandhu serunga da aana sambhar soru dhan";   
@@ -42,6 +42,9 @@ else if(mummy.includes(names)){
 }
 else if(aunty.includes(names)){
     document.querySelector(".message").textContent="Hi aunty, I am overjoyed to share the good news of my engagement with you and invite you to join us in the celebration and shower your blessings on us";   
+}
+else if(sissy.includes(names)){
+    document.querySelector(".message").textContent="Hi papa annan ku marriage fix ayiduchu...adhanala nov 19th engagement paniklam nu unga anniyum nanum decide pani irukom so, kandipa varanum...miss panadhinga apram nan varutha paduven..."
 }
 else if(nikhil.includes(names)){
     document.querySelector(".message").textContent="Hey boshhh...how r you boshhh? you know what, am getting engaged....just come to the engagement and join us in the celebration man";
