@@ -56,3 +56,13 @@ h1{
     padding-right:50px;
     padding-left:50px;
 }
+address{
+    color:  rgb(4, 131, 53);
+}
+a{
+    text-decoration: none;
+    color:  rgb(2, 59, 24);
+}
+a:hover{
+    color:rgb(3, 85, 34)
+}
