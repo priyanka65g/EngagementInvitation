@@ -10,7 +10,7 @@ body{
     font-family: "Kalam";
     font-weight: bold;
     font-size: 0.4rem;
-    margin-top:25% ;
+    margin-top:28% ;
     
 
 
@@ -55,10 +55,4 @@ h1{
     font-size: 15px;
     padding-right:50px;
     padding-left:50px;
-}
-pre{
-    line-height: 1;
-    color: rgb(2, 59, 24);
-    margin-left:30%;
-    margin-right:25%;
 }
