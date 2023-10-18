@@ -10,7 +10,7 @@ const akkaNames = ["swapna","usha","durga","suganya","revathi","revathy","priya"
 const ofzAnna = ["thirupathi","sangappa","abhishek"];
 const ofzJi = ["shivukumar","akhilesh","akilesh","pavan","gopiram","manjunatha r","manjunatha","amruth","prbhakar","prabhakar","balaji"];
 const mummy = ["jyothi"]; 
-const aunty = ["Roopa"];
+const aunty = ["roopa"];
 const sir = ["anilkulkarni","kashi","balachandra","anil"];
 
 const nikhil = ["nikhil"];
