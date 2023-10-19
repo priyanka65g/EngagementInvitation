@@ -19,7 +19,7 @@ const sissy = ["praveena","pravena","pravina","nisha","preethi","preethy","shali
 var emoji = String.fromCodePoint(0x1F61C);
 
 if (machaNames.includes(names)){
-    document.querySelector(".message").textContent="Dei Macha " +names+ " soli mudiyapodhu shock aagadha, enake oru ponnu okay paniduchu macha engagement panikapora, ungalukum seekram kedaikum vaitherichal padama vandhu serunga da aana sambhar soru dhan"+emoji;   
+    document.querySelector(".message").textContent="Dei Macha " +names+ " soli mudiyapodhu shock aagadha, enake oru ponnu okay paniduchu macha engagement panikaporom, ungalukum seekram kedaikum vaitherichal padama vandhu serunga da aana sambhar soru dhan"+emoji;   
 }
 else if(girlNames.includes(names)){
     document.querySelector(".message").textContent="Hey " +names+ " baby...Enaku engagement aagapodhu happy ah dhan iruku but unna lam miss pana poranu nenacha konjam feeling ah iruku " +String.fromCodePoint(0x1F622)+ " aanalum nee epome en aalu dhan kavala padama mama engagement ku vandhu seru"+String.fromCodePoint(0x1F60D);   
