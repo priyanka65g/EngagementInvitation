@@ -30,7 +30,15 @@ span{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-family: 'Lobster', sans-serif;
-    
+    animation: movebg 90s linear infinite;
+}
+@keyframes movebg{
+    0%{
+        background-position:0% 30%;
+    }
+    100%{
+        background-position:100% 50%;
+    }
 }
 .amp{
     font-size: 1.2rem;
